@@ -5,7 +5,6 @@ import './src/app.dart' ;
 // create a text widget to write some text
 // take that widget and put it on the screen
 void main() {
-
   runApp(App());
 }
 
